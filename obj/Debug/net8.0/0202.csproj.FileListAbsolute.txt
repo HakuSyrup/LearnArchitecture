@@ -1,0 +1,14 @@
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\bin\Debug\net8.0\0202.exe
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\bin\Debug\net8.0\0202.deps.json
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\bin\Debug\net8.0\0202.runtimeconfig.json
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\bin\Debug\net8.0\0202.dll
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\bin\Debug\net8.0\0202.pdb
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.AssemblyInfoInputs.cache
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.AssemblyInfo.cs
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.csproj.CoreCompileInputs.cache
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.dll
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\refint\0202.dll
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.pdb
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\0202.genruntimeconfig.cache
+C:\Users\ImpureLily\Documents\Cs\domaindriven\0202\obj\Debug\net8.0\ref\0202.dll
